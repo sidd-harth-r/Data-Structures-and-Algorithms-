@@ -1,0 +1,10 @@
+# Ignore compiled executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore editor configurations
+.vscode/
+.idea/
+.DS_Store
